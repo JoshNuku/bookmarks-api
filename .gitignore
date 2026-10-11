@@ -1,0 +1,22 @@
+# Go build and test artifacts
+/bin/
+/dist/
+*.exe
+*.exe~
+*.test
+*.out
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
