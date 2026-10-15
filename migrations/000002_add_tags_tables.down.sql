@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS bookmark_tags;
+DROP TABLE IF EXISTS tags;
